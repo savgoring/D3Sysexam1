@@ -1,0 +1,11 @@
+BACKUP
+BusinessComm
+CriticalThinking
+ExamGithub
+Goldbackground.jpg
+InterfaceDesign 2.pdf
+Marketing
+Photoshop
+ProjectManagement
+Web Devlopment
+desktopls.txt
